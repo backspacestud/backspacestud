@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @backspacestud
-- 👀 I’m interested in getting my fucking linux install to work
-- 🌱 I’m currently learning how to get my fucking linux install to work
+- 👀 I’m interested in 3d computer graphics
+- 🌱 I’m currently learning about the basics
 
 <!---
 backspacestud/backspacestud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
